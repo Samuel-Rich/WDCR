@@ -1,2 +1,0 @@
-# WDCR
-Web Design Class 
